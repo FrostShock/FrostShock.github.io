@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+	<meta name="robots" content="noindex,follow">
+	<script src="lib/jquery.js"></script>
+	<script src="src/jquery-ui-dependencies/jquery.fancytree.ui-deps.js"></script>
+
+	<link href="src/skin-win8/ui.fancytree.css" rel="stylesheet">
+	<script src="src/jquery.fancytree.js"></script>
+	<script src="sample.js"></script>
+	<title>Fancytree - Example Browser Nav</title>
+
+<style type="text/css">
+body {
+	background-color: #39414A;
+	color: white;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: smaller;
+	background-image: url("nav_bg.png");
+	background-repeat: repeat-x;
+}
+div#tree {
+	position: absolute;
+	height: 95%;
+	width: 95%;
+	padding: 5px;
+	margin-right: 16px;
+}
+ul.fancytree-container {
+	height: 100%;
+	width: 100%;
+	overflow: auto;
+	background-color: transparent;
+}
+span.fancytree-node span.fancytree-title {
+	color: white;
+	text-decoration: none;
+}
+span.fancytree-focused span.fancytree-title {
+	outline-color: white;
+}
+span.fancytree-node:hover span.fancytree-title,
+span.fancytree-active span.fancytree-title,
+span.fancytree-active.fancytree-focused span.fancytree-title,
+.fancytree-treefocus span.fancytree-title:hover,
+.fancytree-treefocus span.fancytree-active span.fancytree-title {
+	color: #39414A;
+}
+span.external span.fancytree-title:after {
+	content: "";
+	background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAMAAAC67D+PAAAAFVBMVEVmmcwzmcyZzP8AZswAZv////////9E6giVAAAAB3RSTlP///////8AGksDRgAAADhJREFUGFcly0ESAEAEA0Ei6/9P3sEcVB8kmrwFyni0bOeyyDpy9JTLEaOhQq7Ongf5FeMhHS/4AVnsAZubxDVmAAAAAElFTkSuQmCC") 100% 50% no-repeat;
+	padding-right: 13px;
+}
+/* Remove system outline for focused container */
+.ui-fancytree.fancytree-container:focus {
+	outline: none;
+}
+.ui-fancytree.fancytree-container {
+	border: none;
+}
+</style>
+
+<script type="text/javascript">
+$(function(){
+	// --- Initialize sample trees
+	$("#tree").fancytree({
+		autoActivate: false, // we use scheduleAction()
+		autoCollapse: true,
+//			autoFocus: true,
+		autoScroll: true,
+		clickFolderMode: 3, // expand with single click
+		minExpandLevel: 2,
+		tabindex: "-1", // we don't want the focus frame
+		// toggleEffect: { effect: "blind", options: {direction: "vertical", scale: "box"}, duration: 2000 },
+		// scrollParent: null, // use $container
+		tooltip: function(event, data) {
+			return data.node.title;
+		},
+		focus: function(event, data) {
+			var node = data.node;
+			// Auto-activate focused node after 1 second
+			if(node.data.href){
+				node.scheduleAction("activate", 1000);
+			}
+		},
+		blur: function(event, data) {
+			data.node.scheduleAction("cancel");
+		},
+		beforeActivate: function(event, data){
+			var node = data.node;
+
+			if( node.data.href && node.data.target === "_blank") {
+				window.open(node.data.href, "_blank");
+				return false; // don't activate
+			}
+		},
+		activate: function(event, data){
+			var node = data.node,
+				orgEvent = data.originalEvent || {};
+
+			// Open href (force new window if Ctrl is pressed)
+			if(node.data.href){
+				window.open(node.data.href, (orgEvent.ctrlKey || orgEvent.metaKey) ? "_blank" : node.data.target);
+			}
+			// When an external link was clicked, we don't want the node to become
+			// active. Also the URL fragment should not be changed
+			if( node.data.target === "_blank") {
+				return false;
+			}
+			// Append #HREF to URL without actually loading content
+			// (We check for this value on page load re-activate the node.)
+			if( window.parent &&  parent.history && parent.history.pushState ) {
+				parent.history.pushState({title: node.title}, "", "#" + (node.data.href || ""));
+			}
+		},
+		click: function(event, data){
+			// We implement this in the `click` event, because `activate` is not
+			// triggered if the node already was active.
+			// We want to allow re-loads by clicking again.
+			var node = data.node,
+				orgEvent = data.originalEvent;
+
+			// Open href (force new window if Ctrl is pressed)
+			if(node.isActive() && node.data.href){
+				window.open(node.data.href, (orgEvent.ctrlKey || orgEvent.metaKey) ? "_blank" : node.data.target);
+			}
+		}
+	});
+	// On page load, activate node if node.data.href matches the url#href
+	var tree = $(":ui-fancytree").fancytree("getTree"),
+		frameHash = window.parent && window.parent.location.hash;
+
+	if( frameHash ) {
+		frameHash = frameHash.replace("#", "");
+		tree.visit(function(n) {
+			if( n.data.href && n.data.href === frameHash ) {
+				n.setActive();
+				return false; // done: break traversal
+			}
+		});
+	}
+});
+
+</script>
+
+</head>
+
+<body>
+	<div id="tree">
+	<ul>
+	<li class="folder expanded">Vanilla addons
+		<ul>
+			<li><a target="content" href="Addons-List.html#ActionBars">Action Bars</a></li>
+			<li><a target="content" href="Addons-List.html#Addons">Addons management</a></li>
+			<li><a target="content" href="Addons-List.html#Automatization">Automatization</a></li>
+			<li><a target="content" href="Addons-List.html#Chat">Chat</a></li>
+			<li><a target="content" href="Addons-List.html#Inspect">Inspecting</a></li>
+			<li><a target="content" href="Addons-List.html#Map">Map</a></li>
+			<li><a target="content" href="Addons-List.html#Minimap">Minimap</a></li>
+			<li><a target="content" href="Addons-List.html#Professions">Professions</a></li>
+			<li><a target="content" href="Addons-List.html#Questing">Questing</a></li>
+			<li><a target="content" href="Addons-List.html#Targeting">Targeting</a></li>
+			<li><a target="content" href="Addons-List.html#UnitFrames">UnitFrames</a></li>
+			<li><a target="content" href="Addons-List.html#Miscellaneous">Miscellaneous</a></li>
+			<li class="folder">Class-based addons
+				<ul>
+					<li><a target="content" href="Addons-List.html#Mage">Mage addons</a></li>
+					<li><a target="content" href="Addons-List.html#Mage">Rogue addons</a></li>
+					<li><a target="content" href="Addons-List.html#Mage">Hunter addons</a></li>
+				</ul>
+			</li>
+			<li><a target="content" href="Addons-List.html#Resources">Resources</a></li>
+			<li><a target="content" href="Addons-List.html#minimap-icons">Minimap icons</a></li>
+		</ul>
+	</li>
+	</ul>
+	</div>
+</body>
+</html>
