@@ -1,0 +1,287 @@
+
+
+This text file contains the default Key Bindings in Vanilla WoW   -   also named Keyboard Shortcuts or simply Hotkeys   -   This is the one column version
+
+
+
+Command				Key 1
+
+
+Movement keys
+
+Move and Steer			Middle Mouse
+Move Forward			"W"
+Move Forward			Up Arrow
+Move Backward			"S"
+Move Backward			Down Arrow
+Turn Left			"A"
+Turn Left			Left Arrow
+Turn Right			"D"
+Turn Right			Right Arrow
+Strafe Left			"Q"
+Strafe Right			"E"
+Jump				Spacebar
+Jump				Num Pad 0
+Toggle Sit/Stand		"X"
+Sheath/Unsheath Weapon		"Z"
+Toggle Autorun			Num Lock
+Toggle Autorun			Mouse Button 4
+Pitch Up			Insert
+Pitch Down			Delete
+Toggle Run/Walk			Num Pad /
+Follow Target			Not Bound
+
+
+Chat Functions
+
+Open Chat			Enter
+Open Chat Slash			"/"
+Chat Page Up			Page Up
+Chat Page Down			Page Down
+Chat Bottom			Shift + Page Down
+Chat Reply			"R"
+Re-Whisper			Shift + R
+Combat Log Page Up		Ctrl + Page Up
+Combat Log Page Down		Ctrl + Page Down
+Combat Log Bottom		Ctrl + Shift + Page Down
+Toggle Combat Log		Shift + C
+
+
+Action Bar Functions
+
+Action Button 1			"1"
+Action Button 2			"2"
+Action Button 3			"3"
+Action Button 4			"4"
+Action Button 5			"5"
+Action Button 6			"6"
+Action Button 7			"7"
+Action Button 8			"8"
+Action Button 9			"9"
+Action Button 10		"0"
+Action Button 11		"-"
+Action Button 12		"="
+
+Self Action Button 1		Alt + 1
+Self Action Button 2		Alt + 2
+Self Action Button 3		Alt + 3
+Self Action Button 4		Alt + 4
+Self Action Button 5		Alt + 5
+Self Action Button 6		Alt + 6
+Self Action Button 7		Alt + 7
+Self Action Button 8		Alt + 8
+Self Action Button 9		Alt + 9
+Self Action Button 10		Alt + 0
+Self Action Button 11		Alt + -
+Self Action Button 12		Alt + =
+
+Special Action Button 1		Ctrl + F1
+Special Action Button 2		Ctrl + F2
+Special Action Button 3		Ctrl + F3
+Special Action Button 4		Ctrl + F4
+Special Action Button 5		Ctrl + F5
+Special Action Button 6		Ctrl + F6
+Special Action Button 7		Ctrl + F7
+Special Action Button 8		Ctrl + F8
+Special Action Button 9		Ctrl + F9
+Special Action Button 10	Ctrl + F10
+
+Secondary Action Button 1	Ctrl + 1
+Secondary Action Button 2	Ctrl + 2
+Secondary Action Button 3	Ctrl + 3
+Secondary Action Button 4	Ctrl + 4
+Secondary Action Button 5	Ctrl + 5
+Secondary Action Button 6	Ctrl + 6
+Secondary Action Button 7	Ctrl + 7
+Secondary Action Button 8	Ctrl + 8
+Secondary Action Button 9	Ctrl + 9
+Secondary Action Button 10	Ctrl + 0
+
+Action Page 1			Shift + 1
+Action Page 2			Shift + 2
+Action Page 3			Shift + 3
+Action Page 4			Shift + 4
+Action Page 5			Shift + 5
+Action Page 6			Shift + 6
+
+Previous Action Bar		Shift + Up Arrow
+Previous Action Bar		Shift + Mouse Wheel Up
+Next Action Bar			Shift + Down Arrow
+Next Action Bar			Shift + Mouse Wheel Down
+
+
+Targeting Functions
+
+Target Nearest Enemy		Tab
+Target Previous Enemy		Shift + Tab
+Target Nearest Friend		Ctrl + Tab
+Target Previous Friend		Ctrl + Shift + Tab
+
+Target Self			"F1"
+Target Party Member 1		"F2"
+Target Party Member 2		"F3"
+Target Party Member 3		"F4"
+Target Party Member 4		"F5"
+
+Target Pet			Shift + F1
+Target Party Pet 1		Shift + F2
+Target Party Pet 2		Shift + F3
+Target Party Pet 3		Shift + F4
+Target Party Pet 4		Shift + F5
+
+Target Last Hostile		"G"
+Assist Target			"F"
+Show Name Plates		"V"
+Show Friendly Name Plates	Shift + V
+Show All Name Plates		Ctrl + V
+Attack Target			"T"
+Pet Attack			Shift + T
+
+
+Interface Panel Functions
+
+Toggle Character Pane		"C"
+Toggle Backpack			"B"
+Toggle Backpack			"F12"
+Toggle Bag 1			"F8"
+Toggle Bag 2			"F9"
+Toggle Bag 3			"F10"
+Toggle Bag 4			"F11"
+Open All Bags			Shift + B
+Toggle Keyring			Not Bound
+Toggle Spellbook		"P"
+Toggle Pet Book			Shift + I
+Toggle Talent Pane		"N"
+Toggle Honor Pane		"H"
+Toggle Pet Pane			Shift + P
+Toggle Reputation Pane		"U"
+Toggle Skill Pane		"K"
+Toggle Quest Log		"L"
+Toggle Game Menu		Escape
+Toggle Minimap			Not Bound
+Toggle World Map Pane		"M"
+Toggle Social Pane		"O"
+Toggle Friends Pane		Not Bound
+Toggle Who Pane			Not Bound
+Toggle Guild Pane		Not Bound
+Toggle Raid Pane		Not Bound
+Toggle Score Screen		Shift + Spacebar
+Toggle Battle Map		Shift + M
+
+
+Miscellaneous Functions
+
+Minimap Zoom In			Num Pad +
+Minimap Zoom Out		Num Pad -
+Toggle Music			Ctrl + M
+Toggle Sound			Ctrl + S
+Master Volume Up		Ctrl + =
+Master Volume Down		Ctrl + -
+Toggle User Interface		Alt + Z
+Toggle Framerate Display	Ctrl + R
+Screen Shot			Print Screen
+
+
+Camera Functions
+
+Next View			End
+Previous View			Home
+Zoom In				Mouse Wheel Up
+Zoom Out			Mouse Wheel Down
+
+Set View 1			Not Bound
+Set View 2			Not Bound
+Set View 3			Not Bound
+Set View 4			Not Bound
+Set View 5			Not Bound
+
+Save View 2			Not Bound
+Save View 3			Not Bound
+Save View 4			Not Bound
+Save View 5			Not Bound
+
+Save View 2			Not Bound
+Save View 3			Not Bound
+Save View 4			Not Bound
+Save View 5			Not Bound
+
+Reset View 2			Not Bound
+Reset View 3			Not Bound
+Reset View 4			Not Bound
+Reset View 5			Not Bound
+Flip Camera			Not Bound
+
+
+MultiActionBar Bindings
+
+BottomLeft Action Button 1	Not Bound
+BottomLeft Action Button 2	Not Bound
+BottomLeft Action Button 3	Not Bound
+BottomLeft Action Button 4	Not Bound
+BottomLeft Action Button 5	Not Bound
+BottomLeft Action Button 6	Not Bound
+BottomLeft Action Button 7	Not Bound
+BottomLeft Action Button 8	Not Bound
+BottomLeft Action Button 9	Not Bound
+BottomLeft Action Button 10	Not Bound
+BottomLeft Action Button 11	Not Bound
+BottomLeft Action Button 12	Not Bound
+
+BottomRight Action Button 1	Not Bound
+BottomRight Action Button 2	Not Bound
+BottomRight Action Button 3	Not Bound
+BottomRight Action Button 4	Not Bound
+BottomRight Action Button 5	Not Bound
+BottomRight Action Button 6	Not Bound
+BottomRight Action Button 7	Not Bound
+BottomRight Action Button 8	Not Bound
+BottomRight Action Button 9	Not Bound
+BottomRight Action Button 10	Not Bound
+BottomRight Action Button 11	Not Bound
+BottomRight Action Button 12	Not Bound
+
+Right Action Button 1		Not Bound
+Right Action Button 2		Not Bound
+Right Action Button 3		Not Bound
+Right Action Button 4		Not Bound
+Right Action Button 5		Not Bound
+Right Action Button 6		Not Bound
+Right Action Button 7		Not Bound
+Right Action Button 8		Not Bound
+Right Action Button 9		Not Bound
+Right Action Button 10		Not Bound
+Right Action Button 11		Not Bound
+Right Action Button 12		Not Bound
+
+Right ActionBar 2 Button 1	Not Bound
+Right ActionBar 2 Button 2	Not Bound
+Right ActionBar 2 Button 3	Not Bound
+Right ActionBar 2 Button 4	Not Bound
+Right ActionBar 2 Button 5	Not Bound
+Right ActionBar 2 Button 6	Not Bound
+Right ActionBar 2 Button 7	Not Bound
+Right ActionBar 2 Button 8	Not Bound
+Right ActionBar 2 Button 9	Not Bound
+Right ActionBar 2 Button 10	Not Bound
+Right ActionBar 2 Button 11	Not Bound
+Right ActionBar 2 Button 12	Not Bound
+
+
+Raid Targeting
+
+Assign Star to Target		Not Bound
+Assign Circle to Target		Not Bound
+Assign Diamond to Target	Not Bound
+Assign Triangle to Target	Not Bound
+Assign Moon to Target		Not Bound
+Assign Square to Target		Not Bound
+Assign Cross to Target		Not Bound
+Assign Skull to Target		Not Bound
+Clear raid target icon		Not Bound
+
+
+
+
+
+
+

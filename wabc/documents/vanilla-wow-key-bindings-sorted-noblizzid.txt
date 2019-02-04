@@ -1,0 +1,187 @@
+
+
+This text file contains the default Key Bindings in Vanilla WoW   -   also named Keyboard Shortcuts or simply Hotkeys   -   This is the version that is sorted by hotkey and it doesn't contain the Blizzard ID column
+
+
+
+		Key		Command
+
+		0		Action Button 10
+		1		Action Button 1
+		2		Action Button 2
+		3		Action Button 3
+		4		Action Button 4
+		5		Action Button 5
+		6		Action Button 6
+		7		Action Button 7
+		8		Action Button 8
+		9		Action Button 9
+
+		/		Open Chat Slash
+		-		Action Button 11
+		=		Action Button 12
+
+		A		Turn Left
+		B		Toggle Backpack
+		C		Toggle Character Pane
+		D		Turn Right
+		E		Strafe Right
+		F		Assist Target
+		G		Target Last Hostile
+		H		Toggle Honor Pane
+		K		Toggle Skill Pane
+		L		Toggle Quest Log
+		M		Toggle World Map Pane
+		N		Toggle Talent Pane
+		O		Toggle Social Pane
+		P		Toggle Spellbook
+		Q		Strafe Left
+		R		Chat Reply
+		S		Move Backward
+		T		Attack Target
+		U		Toggle Reputation Pane
+		V		Show Name Plates
+		W		Move Forward
+		X		Toggle Sit/Stand
+		Z		Sheath/Unsheath Weapon
+
+		F1		Target Self
+		F2		Target Party Member 1
+		F3		Target Party Member 2
+		F4		Target Party Member 3
+		F5		Target Party Member 4
+		F8		Toggle Bag 1
+		F9		Toggle Bag 2
+		F10		Toggle Bag 3
+		F11		Toggle Bag 4
+		F12		Toggle Backpack
+
+	Up Arrow		Move Forward
+	Down Arrow		Move Backward
+	Left Arrow		Turn Left
+	Right Arrow		Turn Right
+
+	Spacebar		Jump
+	Tab			Target Nearest Enemy
+	Enter			Open Chat
+	Escape			Toggle Game Menu
+
+	Insert			Pitch Up
+	Delete			Pitch Down
+	Page Up			Chat Page Up
+	Page Down		Chat Page Down
+	Home			Previous View
+	End			Next View
+	Print Screen		Screen Shot
+
+	Num Lock		Toggle Autorun
+	Num Pad 0		Jump
+	Num Pad -		Minimap Zoom Out
+	Num Pad +		Minimap Zoom In
+	Num Pad /		Toggle Run/Walk
+
+	Alt + -			Self Action Button 11
+	Alt + =			Self Action Button 12
+	Alt + 0			Self Action Button 10
+	Alt + 1			Self Action Button 1
+	Alt + 2			Self Action Button 2
+	Alt + 3			Self Action Button 3
+	Alt + 4			Self Action Button 4
+	Alt + 5			Self Action Button 5
+	Alt + 6			Self Action Button 6
+	Alt + 7			Self Action Button 7
+	Alt + 8			Self Action Button 8
+	Alt + 9			Self Action Button 9
+
+	Alt + Z			Toggle User Interface
+
+	Ctrl + -		Master Volume Down
+	Ctrl + =		Master Volume Up
+	Ctrl + 0		Secondary Action Button 10
+	Ctrl + 1		Secondary Action Button 1
+	Ctrl + 2		Secondary Action Button 2
+	Ctrl + 3		Secondary Action Button 3
+	Ctrl + 4		Secondary Action Button 4
+	Ctrl + 5		Secondary Action Button 5
+	Ctrl + 6		Secondary Action Button 6
+	Ctrl + 7		Secondary Action Button 7
+	Ctrl + 8		Secondary Action Button 8
+	Ctrl + 9		Secondary Action Button 9
+
+	Ctrl + M		Toggle Music
+	Ctrl + R		Toggle Framerate Display
+	Ctrl + S		Toggle Sound
+	Ctrl + V		Show All Name Plates
+
+	Ctrl + F1		Special Action Button 1
+	Ctrl + F2		Special Action Button 2
+	Ctrl + F3		Special Action Button 3
+	Ctrl + F4		Special Action Button 4
+	Ctrl + F5		Special Action Button 5
+	Ctrl + F6		Special Action Button 6
+	Ctrl + F7		Special Action Button 7
+	Ctrl + F8		Special Action Button 8
+	Ctrl + F9		Special Action Button 9
+	Ctrl + F10		Special Action Button 10
+
+	Ctrl + Tab		Target Nearest Friend
+	Ctrl + Page Up		Combat Log Page Up
+	Ctrl + Page Down	Combat Log Page Down
+
+Ctrl + Shift + Page Down	Combat Log Bottom
+Ctrl + Shift + Tab		Target Previous Friend
+
+	Shift + 1		Action Page 1
+	Shift + 2		Action Page 2
+	Shift + 3		Action Page 3
+	Shift + 4		Action Page 4
+	Shift + 5		Action Page 5
+	Shift + 6		Action Page 6
+
+	Shift + B		Open All Bags
+	Shift + C		Toggle Combat Log
+	Shift + I		Toggle Pet Book
+	Shift + M		Toggle Battle Map
+	Shift + P		Toggle Pet Pane
+	Shift + R		Re-Whisper
+	Shift + T		Pet Attack
+	Shift + V		Show Friendly Name Plates
+
+	Shift + F1		Target Pet
+	Shift + F2		Target Party Pet 1
+	Shift + F3		Target Party Pet 2
+	Shift + F4		Target Party Pet 3
+	Shift + F5		Target Party Pet 4
+
+	Shift + Spacebar	Toggle Score Screen
+	Shift + Tab		Target Previous Enemy
+	Shift + Up Arrow	Previous Action Bar
+	Shift + Down Arrow	Next Action Bar
+	Shift + Page Down	Chat Bottom
+
+	Middle Mouse		Move and Steer
+	Mouse Wheel Down	Zoom Out
+	Mouse Wheel Up		Zoom In
+	Mouse Button 4		Toggle Autorun
+
+Shift + Mouse Wheel Down	Next Action Bar
+Shift + Mouse Wheel Up		Previous Action Bar
+
+
+
+
+
+There are 140 Key definitions in total, 6 of them are for the mouse, therefore there are 134 keyboard hotkeys
+
+
+Available keys:
+  I, J
+  F6, F7
+  Alt + A .. Alt + Y
+  Ctrl + A .. Ctrl + Z   -   without  M, R, S, V
+  Shift + 7 .. Shift + 0
+  Shift + A .. Shift + Z   -   without  B, C, I, M, P, R, T, V
+  Shift + F6 .. Shift + F12
+
+
+

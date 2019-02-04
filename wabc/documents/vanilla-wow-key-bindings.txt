@@ -1,0 +1,280 @@
+
+
+This text file contains the default Key Bindings in Vanilla WoW   -   also named Keyboard Shortcuts or simply Hotkeys
+
+
+
+Command				Key 1				Key 2				Blizzard ID
+
+
+Movement keys
+
+Move and Steer			Middle Mouse			Not Bound			MOVEANDSTEER
+Move Forward			"W"				Up Arrow			MOVEFORWARD
+Move Backward			"S"				Down Arrow			MOVEBACKWARD
+Turn Left			"A"				Left Arrow			TURNLEFT
+Turn Right			"D"				Right Arrow			TURNRIGHT
+Strafe Left			"Q"				Not Bound			STRAFELEFT
+Strafe Right			"E"				Not Bound			STRAFERIGHT
+Jump				Spacebar			Num Pad 0			JUMP
+Toggle Sit/Stand		"X"				Not Bound			SITORSTAND
+Sheath/Unsheath Weapon		"Z"				Not Bound			TOGGLESHEATH
+Toggle Autorun			Num Lock			Mouse Button 4			TOGGLEAUTORUN
+Pitch Up			Insert				Not Bound			PITCHUP
+Pitch Down			Delete				Not Bound			PITCHDOWN
+Toggle Run/Walk			Num Pad /			Not Bound			TOGGLERUN
+Follow Target			Not Bound			Not Bound			FOLLOWTARGET
+
+
+Chat Functions
+
+Open Chat			Enter				Not Bound			OPENCHAT
+Open Chat Slash			"/"				Not Bound			OPENCHATSLASH
+Chat Page Up			Page Up				Not Bound			CHATPAGEUP
+Chat Page Down			Page Down			Not Bound			CHATPAGEDOWN
+Chat Bottom			Shift + Page Down		Not Bound			CHATBOTTOM
+Chat Reply			"R"				Not Bound			REPLY
+Re-Whisper			Shift + R			Not Bound			REPLY2
+Combat Log Page Up		Ctrl + Page Up			Not Bound			COMBATLOGPAGEUP
+Combat Log Page Down		Ctrl + Page Down		Not Bound			COMBATLOGPAGEDOWN
+Combat Log Bottom		Ctrl + Shift + Page Down	Not Bound			COMBATLOGBOTTOM
+Toggle Combat Log		Shift + C			Not Bound			TOGGLECOMBATLOG
+
+
+Action Bar Functions
+
+Action Button 1			"1"				Not Bound			ACTIONBUTTON1
+Action Button 2			"2"				Not Bound			ACTIONBUTTON2
+Action Button 3			"3"				Not Bound			ACTIONBUTTON3
+Action Button 4			"4"				Not Bound			ACTIONBUTTON4
+Action Button 5			"5"				Not Bound			ACTIONBUTTON5
+Action Button 6			"6"				Not Bound			ACTIONBUTTON6
+Action Button 7			"7"				Not Bound			ACTIONBUTTON7
+Action Button 8			"8"				Not Bound			ACTIONBUTTON8
+Action Button 9			"9"				Not Bound			ACTIONBUTTON9
+Action Button 10		"0"				Not Bound			ACTIONBUTTON10
+Action Button 11		"-"				Not Bound			ACTIONBUTTON11
+Action Button 12		"="				Not Bound			ACTIONBUTTON12
+
+Self Action Button 1		Alt + 1				Not Bound			SELFACTIONBUTTON1
+Self Action Button 2		Alt + 2				Not Bound			SELFACTIONBUTTON2
+Self Action Button 3		Alt + 3				Not Bound			SELFACTIONBUTTON3
+Self Action Button 4		Alt + 4				Not Bound			SELFACTIONBUTTON4
+Self Action Button 5		Alt + 5				Not Bound			SELFACTIONBUTTON5
+Self Action Button 6		Alt + 6				Not Bound			SELFACTIONBUTTON6
+Self Action Button 7		Alt + 7				Not Bound			SELFACTIONBUTTON7
+Self Action Button 8		Alt + 8				Not Bound			SELFACTIONBUTTON8
+Self Action Button 9		Alt + 9				Not Bound			SELFACTIONBUTTON9
+Self Action Button 10		Alt + 0				Not Bound			SELFACTIONBUTTON10
+Self Action Button 11		Alt + -				Not Bound			SELFACTIONBUTTON11
+Self Action Button 12		Alt + =				Not Bound			SELFACTIONBUTTON12
+
+Special Action Button 1		Ctrl + F1			Not Bound			SHAPESHIFTBUTTON1
+Special Action Button 2		Ctrl + F2			Not Bound			SHAPESHIFTBUTTON2
+Special Action Button 3		Ctrl + F3			Not Bound			SHAPESHIFTBUTTON3
+Special Action Button 4		Ctrl + F4			Not Bound			SHAPESHIFTBUTTON4
+Special Action Button 5		Ctrl + F5			Not Bound			SHAPESHIFTBUTTON5
+Special Action Button 6		Ctrl + F6			Not Bound			SHAPESHIFTBUTTON6
+Special Action Button 7		Ctrl + F7			Not Bound			SHAPESHIFTBUTTON7
+Special Action Button 8		Ctrl + F8			Not Bound			SHAPESHIFTBUTTON8
+Special Action Button 9		Ctrl + F9			Not Bound			SHAPESHIFTBUTTON9
+Special Action Button 10	Ctrl + F10			Not Bound			SHAPESHIFTBUTTON10
+
+Secondary Action Button 1	Ctrl + 1			Not Bound			BONUSACTIONBUTTON1
+Secondary Action Button 2	Ctrl + 2			Not Bound			BONUSACTIONBUTTON2
+Secondary Action Button 3	Ctrl + 3			Not Bound			BONUSACTIONBUTTON3
+Secondary Action Button 4	Ctrl + 4			Not Bound			BONUSACTIONBUTTON4
+Secondary Action Button 5	Ctrl + 5			Not Bound			BONUSACTIONBUTTON5
+Secondary Action Button 6	Ctrl + 6			Not Bound			BONUSACTIONBUTTON6
+Secondary Action Button 7	Ctrl + 7			Not Bound			BONUSACTIONBUTTON7
+Secondary Action Button 8	Ctrl + 8			Not Bound			BONUSACTIONBUTTON8
+Secondary Action Button 9	Ctrl + 9			Not Bound			BONUSACTIONBUTTON9
+Secondary Action Button 10	Ctrl + 0			Not Bound			BONUSACTIONBUTTON10
+
+Action Page 1			Shift + 1			Not Bound			ACTIONPAGE1
+Action Page 2			Shift + 2			Not Bound			ACTIONPAGE2
+Action Page 3			Shift + 3			Not Bound			ACTIONPAGE3
+Action Page 4			Shift + 4			Not Bound			ACTIONPAGE4
+Action Page 5			Shift + 5			Not Bound			ACTIONPAGE5
+Action Page 6			Shift + 6			Not Bound			ACTIONPAGE6
+
+Previous Action Bar		Shift + Up Arrow		Shift + Mouse Wheel Up		PREVIOUSACTIONPAGE
+Next Action Bar			Shift + Down Arrow		Shift + Mouse Wheel Down	NEXTACTIONPAGE
+Toggle Action Bar Lock		Not Bound			Not Bound			TOGGLEACTIONBARLOCK
+Auto Self Cast			Not Bound			Not Bound			TOGGLEAUTOSELFCAST
+
+
+Targeting Functions
+
+Target Nearest Enemy		Tab				Not Bound			TARGETNEARESTENEMY
+Target Previous Enemy		Shift + Tab			Not Bound			TARGETPREVIOUSENEMY
+Target Nearest Friend		Ctrl + Tab			Not Bound			TARGETNEARESTFRIEND
+Target Previous Friend		Ctrl + Shift + Tab		Not Bound			TARGETPREVIOUSFRIEND
+
+Target Self			"F1"				Not Bound			TARGETSELF
+Target Party Member 1		"F2"				Not Bound			TARGETPARTYMEMBER1
+Target Party Member 2		"F3"				Not Bound			TARGETPARTYMEMBER2
+Target Party Member 3		"F4"				Not Bound			TARGETPARTYMEMBER3
+Target Party Member 4		"F5"				Not Bound			TARGETPARTYMEMBER4
+
+Target Pet			Shift + F1			Not Bound			TARGETPET
+Target Party Pet 1		Shift + F2			Not Bound			TARGETPARTYPET1
+Target Party Pet 2		Shift + F3			Not Bound			TARGETPARTYPET2
+Target Party Pet 3		Shift + F4			Not Bound			TARGETPARTYPET3
+Target Party Pet 4		Shift + F5			Not Bound			TARGETPARTYPET4
+
+Target Last Hostile		"G"				Not Bound			TARGETLASTHOSTILE
+Assist Target			"F"				Not Bound			ASSISTTARGET
+Show Name Plates		"V"				Not Bound			NAMEPLATES
+Show Friendly Name Plates	Shift + V			Not Bound			FRIENDNAMEPLATES
+Show All Name Plates		Ctrl + V			Not Bound			ALLNAMEPLATES
+Attack Target			"T"				Not Bound			ATTACKTARGET
+Pet Attack			Shift + T			Not Bound			PETATTACK
+
+
+Interface Panel Functions
+
+Toggle Character Pane		"C"				Not Bound			TOGGLECHARACTER0
+Toggle Backpack			"B"				"F12"				TOGGLEBACKPACK
+Toggle Bag 1			"F8"				Not Bound			TOGGLEBAG1
+Toggle Bag 2			"F9"				Not Bound			TOGGLEBAG2
+Toggle Bag 3			"F10"				Not Bound			TOGGLEBAG3
+Toggle Bag 4			"F11"				Not Bound			TOGGLEBAG4
+Open All Bags			Shift + B			Not Bound			OPENALLBAGS
+Toggle Keyring			Not Bound			Not Bound			TOGGLEKEYRING
+Toggle Spellbook		"P"				Not Bound			TOGGLESPELLBOOK
+Toggle Pet Book			Shift + I			Not Bound			TOGGLEPETBOOK
+Toggle Talent Pane		"N"				Not Bound			TOGGLETALENTS
+Toggle Honor Pane		"H"				Not Bound			TOGGLECHARACTER4
+Toggle Pet Pane			Shift + P			Not Bound			TOGGLECHARACTER3
+Toggle Reputation Pane		"U"				Not Bound			TOGGLECHARACTER2
+Toggle Skill Pane		"K"				Not Bound			TOGGLECHARACTER1
+Toggle Quest Log		"L"				Not Bound			TOGGLEQUESTLOG
+Toggle Game Menu		Escape				Not Bound			TOGGLEGAMEMENU
+Toggle Minimap			Not Bound			Not Bound			TOGGLEMINIMAP
+Toggle World Map Pane		"M"				Not Bound			TOGGLEWORLDMAP
+Toggle Social Pane		"O"				Not Bound			TOGGLESOCIAL
+Toggle Friends Pane		Not Bound			Not Bound			TOGGLEFRIENDSTAB
+Toggle Who Pane			Not Bound			Not Bound			TOGGLEWHOTAB
+Toggle Guild Pane		Not Bound			Not Bound			TOGGLEGUILDTAB
+Toggle Raid Pane		Not Bound			Not Bound			TOGGLERAIDTAB
+Toggle Score Screen		Shift + Spacebar		Not Bound			TOGGLEWORLDSTATESCORES
+Toggle Battle Map		Shift + M			Not Bound			TOGGLEBATTLEFIELDMINIMAP
+
+
+Miscellaneous Functions
+
+Minimap Zoom In			Num Pad +			Not Bound			MINIMAPZOOMIN
+Minimap Zoom Out		Num Pad -			Not Bound			MINIMAPZOOMOUT
+Toggle Music			Ctrl + M			Not Bound			TOGGLEMUSIC
+Toggle Sound			Ctrl + S			Not Bound			TOGGLESOUND
+Master Volume Up		Ctrl + =			Not Bound			MASTERVOLUMEUP
+Master Volume Down		Ctrl + -			Not Bound			MASTERVOLUMEDOWN
+Toggle User Interface		Alt + Z				Not Bound			TOGGLEUI
+Toggle Framerate Display	Ctrl + R			Not Bound			TOGGLEFPS
+Screen Shot			Print Screen			Not Bound			SCREENSHOT
+
+
+Camera Functions
+
+Next View			End				Not Bound			NEXTVIEW
+Previous View			Home				Not Bound			PREVVIEW
+Zoom In				Mouse Wheel Up			Not Bound			CAMERAZOOMIN
+Zoom Out			Mouse Wheel Down		Not Bound			CAMERAZOOMOUT
+
+Set View 1			Not Bound			Not Bound			SETVIEW1
+Set View 2			Not Bound			Not Bound			SETVIEW2
+Set View 3			Not Bound			Not Bound			SETVIEW3
+Set View 4			Not Bound			Not Bound			SETVIEW4
+Set View 5			Not Bound			Not Bound			SETVIEW5
+
+Save View 2			Not Bound			Not Bound			SAVEVIEW2
+Save View 3			Not Bound			Not Bound			SAVEVIEW3
+Save View 4			Not Bound			Not Bound			SAVEVIEW4
+Save View 5			Not Bound			Not Bound			SAVEVIEW5
+
+Save View 2			Not Bound			Not Bound			SAVEVIEW2
+Save View 3			Not Bound			Not Bound			SAVEVIEW3
+Save View 4			Not Bound			Not Bound			SAVEVIEW4
+Save View 5			Not Bound			Not Bound			SAVEVIEW5
+
+Reset View 2			Not Bound			Not Bound			RESETVIEW2
+Reset View 3			Not Bound			Not Bound			RESETVIEW3
+Reset View 4			Not Bound			Not Bound			RESETVIEW4
+Reset View 5			Not Bound			Not Bound			RESETVIEW5
+Flip Camera			Not Bound			Not Bound			FLIPCAMERAYAW
+
+
+MultiActionBar Bindings
+
+BottomLeft Action Button 1	Not Bound			Not Bound			MULTIACTIONBAR1BUTTON1
+BottomLeft Action Button 2	Not Bound			Not Bound			MULTIACTIONBAR1BUTTON2
+BottomLeft Action Button 3	Not Bound			Not Bound			MULTIACTIONBAR1BUTTON3
+BottomLeft Action Button 4	Not Bound			Not Bound			MULTIACTIONBAR1BUTTON4
+BottomLeft Action Button 5	Not Bound			Not Bound			MULTIACTIONBAR1BUTTON5
+BottomLeft Action Button 6	Not Bound			Not Bound			MULTIACTIONBAR1BUTTON6
+BottomLeft Action Button 7	Not Bound			Not Bound			MULTIACTIONBAR1BUTTON7
+BottomLeft Action Button 8	Not Bound			Not Bound			MULTIACTIONBAR1BUTTON8
+BottomLeft Action Button 9	Not Bound			Not Bound			MULTIACTIONBAR1BUTTON9
+BottomLeft Action Button 10	Not Bound			Not Bound			MULTIACTIONBAR1BUTTON10
+BottomLeft Action Button 11	Not Bound			Not Bound			MULTIACTIONBAR1BUTTON11
+BottomLeft Action Button 12	Not Bound			Not Bound			MULTIACTIONBAR1BUTTON12
+
+BottomRight Action Button 1	Not Bound			Not Bound			MULTIACTIONBAR2BUTTON1
+BottomRight Action Button 2	Not Bound			Not Bound			MULTIACTIONBAR2BUTTON2
+BottomRight Action Button 3	Not Bound			Not Bound			MULTIACTIONBAR2BUTTON3
+BottomRight Action Button 4	Not Bound			Not Bound			MULTIACTIONBAR2BUTTON4
+BottomRight Action Button 5	Not Bound			Not Bound			MULTIACTIONBAR2BUTTON5
+BottomRight Action Button 6	Not Bound			Not Bound			MULTIACTIONBAR2BUTTON6
+BottomRight Action Button 7	Not Bound			Not Bound			MULTIACTIONBAR2BUTTON7
+BottomRight Action Button 8	Not Bound			Not Bound			MULTIACTIONBAR2BUTTON8
+BottomRight Action Button 9	Not Bound			Not Bound			MULTIACTIONBAR2BUTTON9
+BottomRight Action Button 10	Not Bound			Not Bound			MULTIACTIONBAR2BUTTON10
+BottomRight Action Button 11	Not Bound			Not Bound			MULTIACTIONBAR2BUTTON11
+BottomRight Action Button 12	Not Bound			Not Bound			MULTIACTIONBAR2BUTTON12
+
+Right Action Button 1		Not Bound			Not Bound			MULTIACTIONBAR3BUTTON1
+Right Action Button 2		Not Bound			Not Bound			MULTIACTIONBAR3BUTTON2
+Right Action Button 3		Not Bound			Not Bound			MULTIACTIONBAR3BUTTON3
+Right Action Button 4		Not Bound			Not Bound			MULTIACTIONBAR3BUTTON4
+Right Action Button 5		Not Bound			Not Bound			MULTIACTIONBAR3BUTTON5
+Right Action Button 6		Not Bound			Not Bound			MULTIACTIONBAR3BUTTON6
+Right Action Button 7		Not Bound			Not Bound			MULTIACTIONBAR3BUTTON7
+Right Action Button 8		Not Bound			Not Bound			MULTIACTIONBAR3BUTTON8
+Right Action Button 9		Not Bound			Not Bound			MULTIACTIONBAR3BUTTON9
+Right Action Button 10		Not Bound			Not Bound			MULTIACTIONBAR3BUTTON10
+Right Action Button 11		Not Bound			Not Bound			MULTIACTIONBAR3BUTTON11
+Right Action Button 12		Not Bound			Not Bound			MULTIACTIONBAR3BUTTON12
+
+Right ActionBar 2 Button 1	Not Bound			Not Bound			MULTIACTIONBAR4BUTTON1
+Right ActionBar 2 Button 2	Not Bound			Not Bound			MULTIACTIONBAR4BUTTON2
+Right ActionBar 2 Button 3	Not Bound			Not Bound			MULTIACTIONBAR4BUTTON3
+Right ActionBar 2 Button 4	Not Bound			Not Bound			MULTIACTIONBAR4BUTTON4
+Right ActionBar 2 Button 5	Not Bound			Not Bound			MULTIACTIONBAR4BUTTON5
+Right ActionBar 2 Button 6	Not Bound			Not Bound			MULTIACTIONBAR4BUTTON6
+Right ActionBar 2 Button 7	Not Bound			Not Bound			MULTIACTIONBAR4BUTTON7
+Right ActionBar 2 Button 8	Not Bound			Not Bound			MULTIACTIONBAR4BUTTON8
+Right ActionBar 2 Button 9	Not Bound			Not Bound			MULTIACTIONBAR4BUTTON9
+Right ActionBar 2 Button 10	Not Bound			Not Bound			MULTIACTIONBAR4BUTTON10
+Right ActionBar 2 Button 11	Not Bound			Not Bound			MULTIACTIONBAR4BUTTON11
+Right ActionBar 2 Button 12	Not Bound			Not Bound			MULTIACTIONBAR4BUTTON12
+
+
+Raid Targeting
+
+Assign Star to Target		Not Bound			Not Bound			RAIDTARGET1
+Assign Circle to Target		Not Bound			Not Bound			RAIDTARGET2
+Assign Diamond to Target	Not Bound			Not Bound			RAIDTARGET3
+Assign Triangle to Target	Not Bound			Not Bound			RAIDTARGET4
+Assign Moon to Target		Not Bound			Not Bound			RAIDTARGET5
+Assign Square to Target		Not Bound			Not Bound			RAIDTARGET6
+Assign Cross to Target		Not Bound			Not Bound			RAIDTARGET7
+Assign Skull to Target		Not Bound			Not Bound			RAIDTARGET8
+Clear raid target icon		Not Bound			Not Bound			RAIDTARGETNONE
+
+
+
+
+
+
+
