@@ -1,0 +1,202 @@
+
+
+Alchemy recipes in Vanilla WoW:
+
+
+
+Alliance:
+
+Stormwind   -   Maria Lumere <Alchemy Supplies>:
+	- [Recipe: Elixir of Shadow Power] G   -   250   -   1g
+
+Ironforge   -   Soolie Berryfizz <Alchemy Supplies>:
+	- [Recipe: Free Action Potion]   -   150   -   18s
+	- [Recipe: Elixir of Superior Defense]   -   265   -   1.30g
+
+Loch Modan   -   The Farstrider Lodge   -   82,63   -   Xandar Goodbeard <General Supplies>:
+	- [Recipe: Rage Potion]   -   60   -   1s
+	- [Recipe: Holy Protection Potion]  -  100   -   8s
+
+Arathi Highlands   -   Refuge Pointe   -   Drovnar Strongbrew <Alchemy Supplies>:
+	- [Recipe: Frost Protection Potion]   -   190   -   20s
+
+Hillsbrad Foothills  -  Southshore   -   Nandar Branson <Alchemy Supplies>:
+	- [Recipe: Fire Protection Potion]   -   165   -   15s
+
+Darnassus   -   Ulthir <Alchemy Supplies>:
+	- [Recipe: Free Action Potion]   -   150   -   18s
+	- [Recipe: Great Rage Potion]   -   175   -   20s
+	- [Recipe: Superior Mana Potion]   -    260   -   1.3g
+
+Ashenvale  -  Silverwind Refuge   -   Harklan Moongrove <Alchemy Supplies>:
+	- [Recipe: Shadow Protection Potion]   -   135   -   9s
+
+Feathermoon Stronghold, Feralas   -   Logannas <Alchemy Supplies>:
+	- [Recipe: Nature Protection Potion]   -   190   -   20s
+	- [Recipe: Ghost Dye]   -   245   -   90s
+
+Blasted Lands  -  Nethergarde Keep   -   Nina Lightbrew <Alchemy Supplies>:
+	- [Recipe: Elixir of Demonslaying]   -   250   -   1g
+
+
+
+Horde:
+
+Undercity  -  Alchemy Supplies:
+	- [Recipe: Superior Mana Potion] - lvl  260 - 1.20g - limited supply
+
+Undercity   -   Algernon <Alchemy Supplies>:
+	- [Recipe: Elixir of Shadow Power] G   -   250   -   1g
+
+Swamp of Sorrows  -  Stonard   -   Rartar <Alchemy Supplies>:
+	- [Recipe: Elixir of Demonslaying]   -   250   -   1g
+
+Hillsbrad Foothills  -  Tarren Mill   -   Christoph Jeffcoat <Tradesman>:
+	- [Recipe: Shadow Protection Potion]   -   135   -   9s
+
+Orgrimmar  -  Kor'geld <Alchemy Supplies>:
+	- [Recipe: Frost Protection Potion]   -   190   -   20s
+	- [Recipe: Free Action Potion]   -   150   -   18s
+	- [Recipe: Elixir of Superior Defense]   -   265   -   1.30g
+
+Orgrimmar  -  Hagrus <Reagents>:
+	- [Recipe: Rage Potion]   -   60   -   1s
+	- [Recipe: Great Rage Potion]   -   175   -   20s
+
+The Barrens  -  Crossroads   -   Hula'mahi <Reagents, Herbs & Poison Supplies>:
+	- [Recipe: Holy Protection Potion]  -  100   -   8s
+
+Stonetalon Mountains  -  Sun Rock Retreat   -   Jeeda <Apprentice Witch Doctor>:
+	- [Recipe: Fire Protection Potion]   -   165   -   15s
+
+Thousand Needles  -  Freewind Post   -   Montarr <Lorekeeper>:
+	- [Recipe: Shadow Oil]   -   165   -   15s
+
+Feralas  -  Camp Mojache   -   Bronk <Alchemy Supplies>:
+	- [Recipe: Nature Protection Potion]   -   190   -   20s
+	- [Recipe: Ghost Dye]   -   245   -   90s
+
+Crossroads - Hula'mahi <Reagents and Herbs>:
+	- [Recipe: Holy Protection Potion]  -  100   -   8s
+
+
+
+Neutral:
+
+Westfall  -  Moonbrook   -   Defias Profiteer <Free Wheeling Merchant>:
+	- [Recipe: Rage Potion]   -   60   -   1s
+
+Duskwood  -  Raven Hill   -   Bliztik <Alchemy Supplies>
+	- [Recipe: Shadow Oil]   -   165   -   15s
+
+Duskwood  -  82,20   -   Kzixx <Rare Goods>:
+	- [Recipe: Holy Protection Potion]   -   100   -   8s
+
+Alterac Mountains  -  38,39   -   Bro'kin <Alchemy Supplies>:
+	- [Recipe: Frost Oil] G   -   200   -   25s
+
+Booty Bay  -  Stranglethorn Vale   -   Glyx Brewright <Alchemy Supplies>:
+	- [Recipe: Frost Protection Potion]   -   190   -   20s
+	- [Recipe: Nature Protection Potion]   -   190   -   20s
+
+The Barrens  -  Ratchet   -   Ranik <Trade Supplies>:
+	- [Recipe: Rage Potion]   -   60   -   1s
+
+Gadzetgan - Alchemist Pestlezugg <Alchemy Supplies>:
+	- [Recipe: Nature Protection Potion]   -   190   -   20s
+	- [Recipe: Philosopher's Stone]   -   225   -   80s
+	- [Recipe: Transmute Iron to Gold]   -   225   -   80s
+	- [Recipe: Transmute Mithril to Truesilver]   -   225   -   80s
+	- [Recipe: Transmute Arcanite]   -   275   -   5g
+
+Winterspring - Evie Whirlbrew <Alchemy Supplies>:
+	- [Recipe: Major Healing Potion] G   -   275   -   1.50g
+
+Winterspring  -  Timbermaw Hold   -   Meilosh:
+	- [Recipe: Transmute Earth to Water] G   -   275   -   1.50g
+
+Blackrock Depths   -   Plugger Spazzring:
+	- [Recipe: Transmute Fire to Earth] G   -   275   -   1.50g
+
+Blackrock Depths   -   Lokhtos Darkbargainer <The Thorium Brotherhood>:
+	- [Recipe: Transmute Elemental Fire] G   -   300   -   12g   -   Requires Thorium Brotherhood - Friendly
+
+Tirisfal Glades  -  The Bulwark   -   Argent Quartermaster Hasana <The Argent Dawn>:
+	- [Recipe: Transmute Air to Fire] G   -   275   -   BoP   -   Requires Argent Dawn - Honored
+
+Western Plaguelands  -  Chillwind Camp   -   Argent Quartermaster Lightspark <The Argent Dawn>:
+	- [Recipe: Transmute Air to Fire] G   -   275   -   BoP   -   Requires Argent Dawn - Honored
+
+Eastern Plaguelands  -  Light's Hope Chapel   -   Quartermaster Miranda Breechlock <The Argent Dawn>:
+	- [Recipe: Transmute Air to Fire] G   -   275   -   BoP   -   Requires Argent Dawn - Honored
+
+Stranglethorn Vale   -   Rin'wosho the Trader <Zandalar Supplies & Repair>:
+	- [Recipe: Greater Dreamless Sleep]   -   275   -   5g   -   BoP   -   Requires Zandalar Tribe - Friendly
+	- [Recipe: Major Troll's Blood Potion]   -   290   -   BoP   -   5g   -   Requires Zandalar Tribe - Honored
+	- [Recipe: Mageblood Potion]   -   275   -   5g   -   BoP   -   Requires Zandalar Tribe - Revered
+	- [Recipe: Living Action Potion]   -   285   -   5g   -   BoP   -   Requires Zandalar Tribe - Exalted
+
+
+
+Drops:
+	- [Recipe: Elixir of Minor Agility] G   -   50   -   World drop
+	- [Recipe: Swiftness Potion]   -   60   -   World drop
+	- [Recipe: Elixir of Giant Growth] G   -   90   -   World drop
+	- [Recipe: Minor Magic Resistance Potion]   -   110   -   World drop
+	- [Recipe: Elixir of Poison Resistance]   -   120   -   World drop
+	- [Recipe: Elixir of Lesser Agility]   -   140   -   World drop
+	- [Recipe: Elixir of Ogre's Strength]   -   150   -   World drop
+	- [Recipe: Elixir of Fortitude]   -   175   -   World drop
+	- [Recipe: Mighty Troll's Blood Potion]   -   180   -   World drop
+	- [Recipe: Elixir of Frost Power]   -   190   -   Eastern Plaguelands   -   Frenzied Plaguehound
+	- [Recipe: Elixir of Detect Lesser Invisibility] G   -   195   -   World drop
+	- [Recipe: Magic Resistance Potion] G   -   210   -   World drop
+	- [Recipe: Wildvine Potion] G   -   225   -   World drop   -   The Hinterlands OR Stranglethorn Vale
+	- [Recipe: Invisibility Potion] G   -   235   -   World drop
+	- [Recipe: Elixir of Dream Vision] G   -   240   -   World drop
+	- [Recipe: Gift of Arthas] G   -   240   -   Western Plaguelands
+	- [Recipe: Elixir of Giants] G   -   245   -   World drop
+	- [Recipe: Limited Invulnerability Potion] G   -   250   -   World drop
+	- [Recipe: Elixir of Greater Firepower] G   -   250   -   Searing Gorge
+	- [Recipe: Transmute Undeath to Water] G   -   275   -   World drop
+	- [Recipe: Transmute Water to Undeath] G   -   275   -   World drop
+	- [Recipe: Transmute Life to Earth] G   -   275   -   World drop
+	- [Recipe: Transmute Earth to Life] G   -   275   -   World drop
+	- [Recipe: Elixir of the Mongoose] G   -   280   -   satyrs in Felwood, Winterspring
+	- [Recipe: Greater Stoneshield Potion] G   -   280   -   World drop
+	- [Recipe: Greater Arcane Elixir] G   -   285   -   World drop
+	- [Recipe: Purification Potion] G   -   285   -   World drop
+	- [Recipe: Mighty Rage Potion] G   -   255   -   Burning Steppes   -   Blackrock Slayer
+	- [Recipe: Greater Shadow Protection Potion] G   -   290   -   Eastern Plaguelands   -   cauldrons
+	- [Recipe: Greater Nature Protection Potion] G   -   290   -   Western Plaguelands   -   cave at 65,38
+	- [Recipe: Greater Arcane Protection Potion] G   -   290   -   Winterspring   -   Cobalt Mageweaver   -   cave at 57,48
+	- [Recipe: Greater Frost Protection Potion] G   -   290   -   Winterspring   -   Frostmaul Giant
+	- [Recipe: Greater Fire Protection Potion] G   -   290   -   LBRS
+	- [Recipe: Major Mana Potion] G   -   295   -   Darkmaster Gandling   -   Scholomance
+	- [Recipe: Major Rejuvenation Potion] B   -   300   -   Molten Core
+	- [Recipe: Flask of the Titans] G   -   300   -   UBRS   -   General Drakkisath
+	- [Recipe: Flask of Supreme Power] G   -   300   -   Scholomance   -   Ras Frostwhisper
+	- [Recipe: Flask of Petrification] G   -   300   -   World drop
+	- [Recipe: Flask of Distilled Wisdom] G   -   300   -   Balnazzar   -   Stratholme   -   living side
+	- [Recipe: Flask of Chromatic Resistance] G   -   300   -   UBRS   -   Gyth <Rend Blackhand's Mount>
+	- [Recipe: Elixir of the Sages] G   -   300   -   Tyr's Hand
+
+
+
+	Quest rewards:
+	- [Recipe: Discolored Healing Potion]   -   50
+	- [Recipe: Lesser Stoneshield Potion]   -   215   -   [37] [Liquid Stone]
+	- [Recipe: Elixir of Brute Force] G   -   275
+
+
+
+G = Green recipe
+B = Blue recipe
+
+
+Example:
+	- [Recipe: Major Healing Potion] G   -   275   -   1.50g
+
+The recipe is a green recipe, it requires level 275 in Alchemy and it costs 1.50 gold at vendor
+
+

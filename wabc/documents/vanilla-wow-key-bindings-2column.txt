@@ -1,6 +1,6 @@
 
 
-This text file contains the default Key Bindings in Vanilla WoW   -   also named Keyboard Shortcuts or simply Hotkeys   -   This is the one column version
+This text file contains the default Key Bindings in Vanilla WoW   -   also named Keyboard Shortcuts or simply Hotkeys   -   This is the two column version
 
 
 
