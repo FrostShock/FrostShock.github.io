@@ -1,0 +1,248 @@
+
+Enchanting recipes in Vanilla WoW:
+
+
+
+
+Alliance:
+
+Stormwind   -   Jessara Cordell <Enchanting Supplies>:
+			- [Formula: Enchant Chest - Minor Mana]   -   20   -   3s
+			- [Formula: Minor Wizard Oil]   -   45   -   5s
+			- [Formula: Minor Mana Oil]   -   150   -   30s
+			- [Formula: Lesser Wizard Oil]   -   200   -   40s
+
+Ironforge   -   Tilli Thistlefuzz <Enchanting Supplies>:
+			- [Formula: Enchant Chest - Minor Mana]   -   20   -   3s
+			- [Formula: Minor Wizard Oil]   -   45   -   5s
+			- [Formula: Enchant 2H Weapon - Lesser Intellect]   -   100   -   5s
+			- [Formula: Minor Mana Oil]   -   150   -   30s
+			- [Formula: Lesser Wizard Oil]   -   200   -   40s
+
+Hillsbrad Foothills  -  Southshore   -   Micha Yance <Trade Goods>:
+		- [Formula: Enchant Bracer - Lesser Deflection] G   -   170   -   30s
+
+Darnassus   -   Vaean <Enchanting Supplies>:
+			- [Formula: Enchant Chest - Minor Mana]   -   20   -   3s
+			- [Formula: Minor Wizard Oil]   -   45   -   5s
+			- [Formula: Minor Mana Oil]   -   150   -   30s
+			- [Formula: Lesser Wizard Oil]   -   200   -   40s
+
+Darnassus   -   Mythrin'dir <Trade Supplies>:
+			- [Formula: Enchant Bracer - Deflection] G   -   235   -   58s
+			- [Formula: Enchant Shield - Greater Stamina] G   -   265   -   1.2g
+
+Ashenvale  -  Astranaar   -   Dalria <Trade Goods>:
+			- [Formula: Enchant Cloak - Minor Agility] G   -   110   -   8s
+			- [Formula: Enchant Bracer - Lesser Strength] G   -   140   -   25s
+
+
+
+
+Horde:
+
+Undercity   -   Daniel Bartlett <Trade Supplies>:
+			- [Formula: Enchant Bracer - Deflection] G   -   235   -   58s
+			- [Formula: Enchant Shield - Greater Stamina] G   -   265   -   1.2g
+
+Undercity   -   Thaddeus Webb <Enchanting Supplies>:
+			- [Formula: Enchant Chest - Minor Mana]   -   20   -   3s
+			- [Formula: Minor Wizard Oil]   -   45   -   5s
+			- [Formula: Minor Mana Oil]   -   150   -   30s
+			- [Formula: Lesser Wizard Oil]   -   200   -   40s
+
+Silverpine Forest  -  (43,51)   -   Lilly <Enchanting Supplies>:
+			- [Formula: Enchant Chest - Minor Mana]   -   20   -   3s
+			- [Formula: Minor Wizard Oil]   -   45   -   5s
+			- [Formula: Enchant Chest - Lesser Mana] G   -   80   -   4s
+			- [Formula: Minor Mana Oil]   -   150   -   30s
+			- [Formula: Lesser Wizard Oil]   -   200   -   40s
+
+Silverpine Forest   -   (54,82)   -   Leo Sarn <Enchanting Supplies>:
+			- [Formula: Enchant Chest - Minor Mana]   -   20   -   3s
+			- [Formula: Minor Wizard Oil]   -   45   -   5s
+			- [Formula: Minor Mana Oil]   -   150   -   30s
+			- [Formula: Lesser Wizard Oil]   -   200   -   40s
+
+Arathi Highlands  -  Hammerfall   -   Keena <Trade Goods>:
+		- [Formula: Enchant Bracer - Lesser Deflection] G   -   170   -   30s
+
+Swamp of Sorrows  -  Stonard   -   Banalash <Trade Supplies>:
+			- [Formula: Enchant Bracer - Deflection] G   -   235   -   58s
+
+Orgrimmar   -   Kithas <Enchanting Supplies>:
+			- [Formula: Enchant Chest - Minor Mana]   -   20   -   3s
+			- [Formula: Minor Wizard Oil]   -   45   -   5s
+			- [Formula: Enchant Chest - Lesser Mana] G   -   80   -   4s
+			- [Formula: Enchant 2H Weapon - Lesser Intellect]   -   100   -   5s
+			- [Formula: Minor Mana Oil]   -   150   -   30s
+			- [Formula: Lesser Wizard Oil]   -   200   -   40s
+
+Thunder Bluff   -   Nata Dawnstrider <Enchanting Supplies>:
+			- [Formula: Enchant Chest - Minor Mana]   -   20   -   3s
+			- [Formula: Minor Wizard Oil]   -   45   -   5s
+			- [Formula: Enchant 2H Weapon - Lesser Intellect]   -   100   -   5s
+			- [Formula: Enchant Boots - Minor Agility] G   -   125   -   10s
+			- [Formula: Minor Mana Oil]   -   150   -   30s
+			- [Formula: Lesser Wizard Oil]   -   200   -   40s
+
+Stonetalon Mountains   -   Sun Rock Retreat   -   Kulwia <Trade Supplies>:
+			- [Formula: Enchant Cloak - Minor Agility] G   -   110   -   8s
+			- [Formula: Enchant Bracer - Lesser Strength] G   -   140   -   25s
+
+
+
+
+Neutral:
+
+Hillsbrad Foothills   -   Zixil <Merchant Supreme>:
+			- [Formula: Enchant Boots - Minor Agility] G   -   125   -   10s
+
+Tirisfal Glades  -  The Bulwark   -   Argent Quartermaster Hasana <The Argent Dawn>:
+			- [Formula: Enchant Bracer - Mana Regeneration]   -   290   -   3g
+			- [Formula: Enchant Bracer - Healing]   -   300   -   6g
+
+Western Plaguelands  -  Chillwind Camp   -   Argent Quartermaster Lightspark <The Argent Dawn>:
+			- [Formula: Enchant Bracer - Mana Regeneration]   -   290   -   3g
+			- [Formula: Enchant Bracer - Healing]   -   300   -   6g
+
+Eastern Plaguelands  -  Light's Hope Chapel   -   Quartermaster Miranda Breechlock <The Argent Dawn>:
+			- [Formula: Enchant Bracer - Mana Regeneration]   -   290   -   3g
+			- [Formula: Enchant Bracer - Healing]   -   300   -   6g
+
+Felwood  -  Timbermaw Hold   -   Meilosh:
+			- [Formula: Enchant Weapon - Agility]   -   290   -   3g
+			- [Formula: Enchant 2H Weapon - Agility]   -   290   -   2.5g
+
+Silithus   -   Cenarion Hold   -   Kania <Enchanting Supplies>:
+			- [Formula: Enchant Chest - Minor Mana]   -   20   -   3s
+			- [Formula: Minor Wizard Oil]   -   45   -   5s
+			- [Formula: Minor Mana Oil]   -   150   -   30s
+			- [Formula: Lesser Wizard Oil]   -   200   -   40s
+			- [Formula: Lesser Mana Oil]   -   250   -   1g
+			- [Formula: Wizard Oil]   -   275   -   2g
+			- [Formula: Enchant Cloak - Greater Fire Resistance]   -   300   -   10g
+			- [Formula: Enchant Cloak - Greater Nature Resistance]   -   300   -   10g
+
+Moonglade   -   Nighthaven   -   Lorelae Wintersong <Trade Supplies>:
+			- [Formula: Enchant Cloak - Superior Defense]   -   285   -   2g
+			- [Formula: Runed Arcanite Rod]   -   290   -   2.2g
+
+Winterspring   -   Everlook   -   Qia <Trade Goods Supplies>:
+			- [Formula: Enchant Chest - Major Health]   -   275   -   1.6g
+
+Stranglethorn Vale   -   Rin'wosho the Trader <Zandalar Supplies & Repair>:
+			- [Formula: Brilliant Mana Oil]   -   300   -   4g
+			- [Formula: Brilliant Wizard Oil]   -   300   -   4g
+
+Blackrock Depths   -   Lokhtos Darkbargainer <The Thorium Brotherhood>:
+			- [Formula: Enchant Weapon - Strength]   -   290   -   3g
+			- [Formula: Enchant Weapon - Mighty Spirit]   -   300   -   8g
+			- [Formula: Enchant Weapon - Mighty Intellect]   -   300   -   10g
+
+
+
+
+
+
+Drops:
+	- [Formula: Enchant Chest - Minor Mana] G   -   20   -   World drop
+	- [Formula: Enchant Bracer - Minor Spirit] G   -   60   -   World drop
+	- [Formula: Enchant Bracer - Minor Strength] G   -   80   -   World drop
+	- [Formula: Enchant Weapon - Minor Beastslayer] G   -   90   -   World drop
+	- [Formula: Enchant 2H Weapon - Lesser Spirit] G   -   110   -   World drop
+	- [Formula: Enchant Cloak - Minor Agility] G   -   110   -   World drop
+	- [Formula: Enchant Shield - Lesser Protection] G   -   115   -   World drop
+	- [Formula: Enchant Bracer - Lesser Spirit] G   -   120   -   World drop
+	- [Formula: Enchant Cloak - Lesser Shadow Resistance] G   -   135   -   World drop
+	- [Formula: Enchant Gloves - Mining] G   -   145   -   Dark Iron mobs
+	- [Formula: Enchant Gloves - Herbalism] G   -   145   -   Stonetalon Mountains, Ashenvale  -  Ancients
+	- [Formula: Enchant Gloves - Fishing] G   -   145   -   Murlocs in Hillsbrad Foothills
+	- [Formula: Enchant Weapon - Lesser Beastslayer] G   -   175   -   World drop
+	- [Formula: Enchant Weapon - Lesser Elemental Slayer] G   -   175   -   World drop
+	- [Formula: Enchant Boots - Lesser Spirit] G   -   190   -   World drop
+	- [Formula: Enchant Shield - Lesser Block] G   -   195   -   World drop
+	- [Formula: Enchant Gloves - Skinning] G   -   200   -   Arathi Highlands  -  Witherbark Trolls
+	- [Formula: Enchant Shield - Stamina] G   -   210   -   World drop
+	- [Formula: Enchant Gloves - Advanced Mining] G   -   215   -   Stranglethorn Vale  -  Venture Co. Strip Miner (42,42)
+	- [Formula: Enchant Bracer - Greater Spirit] G   -   220   -   World drop
+	- [Formula: Enchant Gloves - Advanced Herbalism] G   -   225   -   Swamp of Sorrows  -  Nature Elementals (timber)
+	- [Formula: Enchant Cloak - Lesser Agility] G   -   225   -   Tanaris, Alterac Mountains
+	- [Formula: Enchant Weapon - Demonslaying] G   -   230   -   World drop
+	- [Formula: Enchant Shield - Frost Resistance] G   -   235   -   World drop
+	- [Formula: Enchant Bracer - Greater Stamina] G   -   245   -   World drop
+	- [Formula: Enchant Gloves - Riding Skill] G   -   250   -   World drop
+	- [Formula: Enchant Bracer - Greater Intellect] G   -   255   -   The Hinterlands  -  Vilebranch Shadowcaster
+	- [Formula: Enchant Boots - Greater Stamina] G   -   260   -   World drop
+	- [Formula: Enchant Cloak - Greater Resistance] G   -   265   -   Sunken Temple  -  Atal'ai Witch Doctor
+	- [Formula: Smoking Heart of the Mountain] G   -   265   -   Blackrock Depths  -  Lord Roccor
+	- [Formula: Enchant Bracer - Superior Spirit] G   -   270   -   World drop
+	- [Formula: Enchant Gloves - Greater Agility] G   -   270   -   Winterspring  -  Legashi Rogue
+	- [Formula: Enchant Boots - Spirit] G   -   275   -   World drop
+	- [Formula: Enchant Shield - Superior Spirit] G   -   280   -   Eastern Plaguelands   -   Scarlet Warder
+	- [Formula: Enchant Weapon - Icy Chill] G   -   285   -   Winterspring  -  Anguished Highborne
+	- [Formula: Enchant Chest - Major Mana] G   -   290   -   Eastern Plaguelands, Tyr's Hand  -  Scarlet Enchanter
+	- [Formula: Enchant 2H Weapon - Superior Impact] G   -   295   -   UBRS  -  Blackhand Elite
+	- [Formula: Enchant Bracer - Superior Strength] G   -   295   -   Deadwind Pass  -  Deadwind Warlock
+	- [Formula: Enchant Boots - Greater Agility] G   -   295   -   World drop
+	- [Formula: Enchant Gloves - Greater Strength] G   -   295   -   LBRS  -  Spirestone Mystic
+	- [Formula: Enchant Weapon - Unholy] G   -   295   -   Stratholme  -  Thuzadin Shadowcaster
+	- [Formula: Enchant 2H Weapon - Major Intellect] G   -   300   -   Stratholme  -  Crimson Sorcerer
+	- [Formula: Enchant 2H Weapon - Major Spirit] G   -   300   -   Scholomance  -  Scholomance Adept
+	- [Formula: Enchant Bracer - Superior Stamina] G   -   300   -   World drop
+	- [Formula: Enchant Chest - Greater Stats] G   -   300   -   World drop
+	- [Formula: Enchant Weapon - Superior Striking] G   -   300   -     LBRS  -  Spirestone Warlord
+	- [Formula: Enchant Weapon - Crusader] G   -   300   -   Western Plaguelands   -   Scarlet Spellbinder
+	- [Formula: Enchant Weapon - Lifestealing] B   -   300   -   Scholomance   -   Spectral Researcher
+	- [Formula: Enchant Weapon - Spell Power] B   -   300   -   Molten Core   -   Bosses
+	- [Formula: Enchant Weapon - Healing Power] B   -   300   -   Molten Core   -   Bosses
+	- [Formula: Enchant Gloves - Threat] B   -   300   -   Temple of Ahn'Qiraj (AQ40)   -   Emperor Vek'nilash
+	- [Formula: Enchant Cloak - Stealth] B   -   300   -   Ruins of Ahn'Qiraj (AQ20), Temple of Ahn'Qiraj (AQ40)   -   Bosses
+	- [Formula: Enchant Cloak - Subtlety] B   -   300   -   Temple of Ahn'Qiraj (AQ40)   -   Emperor Vek'lor
+	- [Formula: Enchant Cloak - Dodge] B   -   300   -   Ruins of Ahn'Qiraj (AQ20), Temple of Ahn'Qiraj (AQ40)   -   Bosses
+	- [Formula: Enchant Gloves - Fire Power] B   -   300   -   Ruins of Ahn'Qiraj (AQ20), Temple of Ahn'Qiraj (AQ40)   -   Bosses
+	- [Formula: Enchant Gloves - Frost Power] B   -   300   -   Ruins of Ahn'Qiraj (AQ20), Temple of Ahn'Qiraj (AQ40)   -   Bosses
+	- [Formula: Enchant Gloves - Shadow Power] B   -   300   -   Ruins of Ahn'Qiraj (AQ20), Temple of Ahn'Qiraj (AQ40)   -   Bosses
+	- [Formula: Enchant Gloves - Healing Power] B   -   300   -   Ruins of Ahn'Qiraj (AQ20), Temple of Ahn'Qiraj (AQ40)   -   Bosses
+	- [Formula: Enchant Gloves - Superior Agility] B   -   300   -   Ruins of Ahn'Qiraj (AQ20), Temple of Ahn'Qiraj (AQ40)   -   Bosses
+
+
+
+
+	Quest rewards:
+	- [Formula: Enchant Weapon - Winter's Might] G   -   190   -   Smokywood Pastures Special Gift
+
+
+
+Recipes that are sold by vendors but they are also dropped by mobs:
+	- [Formula: Enchant Chest - Minor Mana] G   -   20
+	- [Formula: Enchant Cloak - Minor Agility] G   -   100
+
+
+
+Horde-only recipes:
+	- [Formula: Enchant Chest - Lesser Mana] G   -   80   -   4s
+
+
+
+
+
+Recipes by color:
+- 12 Blue recipes
+- 54 Green recipes
+- 21 White recipes
+Total:  87 recipes
+
+
+
+G = Green recipe
+B = Blue recipe
+
+
+
+Example:
+	- [Formula: Wizard Oil]   -   275   -   2g
+
+The recipe is a green recipe, it requires level 275 in Enchanting and it costs 2 gold at vendor
+
+

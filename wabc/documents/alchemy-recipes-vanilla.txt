@@ -31,7 +31,7 @@ Darnassus   -   Ulthir <Alchemy Supplies>:
 Ashenvale  -  Silverwind Refuge   -   Harklan Moongrove <Alchemy Supplies>:
 	- [Recipe: Shadow Protection Potion]   -   135   -   9s
 
-Feathermoon Stronghold, Feralas   -   Logannas <Alchemy Supplies>:
+Feralas  -  Feathermoon Stronghold   -   Logannas <Alchemy Supplies>:
 	- [Recipe: Nature Protection Potion]   -   190   -   20s
 	- [Recipe: Ghost Dye]   -   245   -   90s
 
@@ -42,11 +42,9 @@ Blasted Lands  -  Nethergarde Keep   -   Nina Lightbrew <Alchemy Supplies>:
 
 Horde:
 
-Undercity  -  Alchemy Supplies:
-	- [Recipe: Superior Mana Potion] - lvl  260 - 1.20g - limited supply
-
 Undercity   -   Algernon <Alchemy Supplies>:
 	- [Recipe: Elixir of Shadow Power] G   -   250   -   1g
+	- [Recipe: Superior Mana Potion]   -   260   -   1.20g
 
 Swamp of Sorrows  -  Stonard   -   Rartar <Alchemy Supplies>:
 	- [Recipe: Elixir of Demonslaying]   -   250   -   1g
@@ -54,12 +52,12 @@ Swamp of Sorrows  -  Stonard   -   Rartar <Alchemy Supplies>:
 Hillsbrad Foothills  -  Tarren Mill   -   Christoph Jeffcoat <Tradesman>:
 	- [Recipe: Shadow Protection Potion]   -   135   -   9s
 
-Orgrimmar  -  Kor'geld <Alchemy Supplies>:
+Orgrimmar   -   Kor'geld <Alchemy Supplies>:
 	- [Recipe: Frost Protection Potion]   -   190   -   20s
 	- [Recipe: Free Action Potion]   -   150   -   18s
 	- [Recipe: Elixir of Superior Defense]   -   265   -   1.30g
 
-Orgrimmar  -  Hagrus <Reagents>:
+Orgrimmar   -   Hagrus <Reagents>:
 	- [Recipe: Rage Potion]   -   60   -   1s
 	- [Recipe: Great Rage Potion]   -   175   -   20s
 
@@ -75,9 +73,6 @@ Thousand Needles  -  Freewind Post   -   Montarr <Lorekeeper>:
 Feralas  -  Camp Mojache   -   Bronk <Alchemy Supplies>:
 	- [Recipe: Nature Protection Potion]   -   190   -   20s
 	- [Recipe: Ghost Dye]   -   245   -   90s
-
-Crossroads - Hula'mahi <Reagents and Herbs>:
-	- [Recipe: Holy Protection Potion]  -  100   -   8s
 
 
 
@@ -102,18 +97,18 @@ Booty Bay  -  Stranglethorn Vale   -   Glyx Brewright <Alchemy Supplies>:
 The Barrens  -  Ratchet   -   Ranik <Trade Supplies>:
 	- [Recipe: Rage Potion]   -   60   -   1s
 
-Gadzetgan - Alchemist Pestlezugg <Alchemy Supplies>:
+Gadzetgan   -   Alchemist Pestlezugg <Alchemy Supplies>:
 	- [Recipe: Nature Protection Potion]   -   190   -   20s
 	- [Recipe: Philosopher's Stone]   -   225   -   80s
 	- [Recipe: Transmute Iron to Gold]   -   225   -   80s
 	- [Recipe: Transmute Mithril to Truesilver]   -   225   -   80s
 	- [Recipe: Transmute Arcanite]   -   275   -   5g
 
-Winterspring - Evie Whirlbrew <Alchemy Supplies>:
-	- [Recipe: Major Healing Potion] G   -   275   -   1.50g
-
-Winterspring  -  Timbermaw Hold   -   Meilosh:
+Felwood  -  Timbermaw Hold   -   Meilosh:
 	- [Recipe: Transmute Earth to Water] G   -   275   -   1.50g
+
+Winterspring   -   Evie Whirlbrew <Alchemy Supplies>:
+	- [Recipe: Major Healing Potion] G   -   275   -   1.50g
 
 Blackrock Depths   -   Plugger Spazzring:
 	- [Recipe: Transmute Fire to Earth] G   -   275   -   1.50g
@@ -179,7 +174,7 @@ Drops:
 	- [Recipe: Flask of Petrification] G   -   300   -   World drop
 	- [Recipe: Flask of Distilled Wisdom] G   -   300   -   Balnazzar   -   Stratholme   -   living side
 	- [Recipe: Flask of Chromatic Resistance] G   -   300   -   UBRS   -   Gyth <Rend Blackhand's Mount>
-	- [Recipe: Elixir of the Sages] G   -   300   -   Tyr's Hand
+	- [Recipe: Elixir of the Sages] G   -   300   -   Tyr's Hand (Eastern Plaguelands)
 
 
 

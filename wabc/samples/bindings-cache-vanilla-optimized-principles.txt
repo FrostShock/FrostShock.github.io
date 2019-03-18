@@ -1,0 +1,36 @@
+The principles of the optimized keyboard shortcuts   -   bindings-cache-vanilla-optimized.wtf
+
+
+BottomLeft Action Bar:
+	Alt + 1    -    Alt + 2    -    Alt + 3    -    Alt + 4    -    Alt + 5    -    Alt + 6    -    Alt + E    -    Alt + R    -    Alt + T    -    Alt + A    -    Alt + D    -    Alt + C
+
+BottomRight Action Bar:
+	Q    -    E    -    R    -    U    -    I    -    Z    -    Ctrl + Q    -    Ctrl + W    -    Ctrl + E    -    Ctrl + A    -    Ctrl + D    -    Ctrl + C
+
+Right Action Bar:
+	Alt + X    -    Alt + W    -    Alt + S
+
+Right Action Bar2:
+	Alt + Q    -    Shift + Q    -    Shift + W    -    Shift + E    -    Shift + T    -    Shift + A    -    Shift + S    -    Shift + D
+
+Movement keys:
+	- Toggle Sit/Stand   -   Ctrl + X
+	- Sheath/Unsheath Weapon   -   Shift + Z
+
+Chat Functions:
+	- Chat Reply   -   Ctrl + R
+
+Targeting Functions:
+	- Pet Attack   -   X
+
+Miscellaneous Functions:
+	- Toggle Framerate Display   -   Shift + R
+
+Camera Functions:
+	- Flip Camera   -   Alt + P
+
+
+
+    Alt + F   -   Sprocket sub-menu
+    Alt + G   -   RingMenu sub-menu
+
